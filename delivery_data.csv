@@ -1,0 +1,6 @@
+date,origin,destination,delivery_time_minutes,distance_km,delay_minutes
+2024-04-01,New York,Boston,320,350,20
+2024-04-02,San Francisco,Los Angeles,410,600,40
+2024-04-03,Dallas,Houston,190,385,15
+2024-04-04,Chicago,Detroit,270,450,35
+2024-04-05,Miami,Orlando,160,378,10
